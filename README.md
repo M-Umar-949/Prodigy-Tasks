@@ -28,8 +28,19 @@ This task focuses on performing exploratory data analysis (EDA) on the famous Ti
 - **Plotly**: For interactive visualizations.
 - **Seaborn**: For statistical data visualization.
 
-### Conclusion:
-Plotly and Seaborn prove invaluable for visualizing and exploring complex datasets like the Titanic dataset, providing rich insights into historical events.
+## Task 3: Training Decision Tree classifier on bank marketing dataset
+This task involves traing a decision tree classifier with some addition data analytics like SMOTE analysis
+
+### Tools Utilized:
+- **Plotly**: For interactive visualizations.
+- **skLearn**: For decision tree model.
+- **imbLearn**: For SMOTE analysis
+  
+### Summary:
+1. **Handling Class imbalance**:SMOTE analysis for resampling
+2. **Visualization**: Visualization of confusion matrix and classification report using plotly
+
 
 ---
+
 
