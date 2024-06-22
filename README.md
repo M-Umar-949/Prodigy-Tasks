@@ -1,4 +1,4 @@
-# Prodigy-Tasks
+# Prodigy tasks
 
 ## Task 1: World Population Analysis
 
