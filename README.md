@@ -40,6 +40,21 @@ This task involves traing a decision tree classifier with some addition data ana
 1. **Handling Class imbalance**:SMOTE analysis for resampling
 2. **Visualization**: Visualization of confusion matrix and classification report using plotly
 
+## Task 4: Sentiment Analysis and Visualization using Twitter Sentiment Dataset
+This task involves creating interactive visualizations to analyze and present the sentiment distribution within the Twitter sentiment dataset.
+
+### Tools Utilized:
+- **Plotly**: For interactive visualizations.
+- **Pandas**: For data manipulation and analysis.
+- **Numpy**: For numerical operations.
+
+
+### Summary:
+1. **Interactive Pie Chart**: Showing the ratio of sentiment classes in the dataset.
+2. **Interactive Stacked Bar Chart**: Showing the distribution of sentiments for each platform.
+3. **Interactive Dial Plot**: Showing the overall sentiment score of each platform selected from a filter.
+
+
 
 ---
 
