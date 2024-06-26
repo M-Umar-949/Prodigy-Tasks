@@ -55,6 +55,17 @@ This task involves creating interactive visualizations to analyze and present th
 3. **Interactive Dial Plot**: Showing the overall sentiment score of each platform selected from a filter.
 
 
+## Task 5: Analysis and Visualization of Accidents in USA
+
+This task involves the analysis and visualization of traffic accidents across the USA using big data tools to efficiently handle the large dataset and create interactive visualizations of accident hotspots.
+
+### Tools Utilized:
+- **PySpark**: For processing and analyzing the large dataset.
+- **Plotly**: For creating interactive maps to visualize accident hotspots.
+
+### Summary:
+1. **Data Processing with PySpark**: Handled the massive dataset efficiently to filter and aggregate accident data.
+2. **Interactive Map with Plotly**: Created interactive maps to pinpoint accident hotspots across the USA.
 
 ---
 
